@@ -1,0 +1,14 @@
+.right, .left{
+    height: 70vh;
+}
+.left{
+    background: blueviolet;
+    
+}
+.right{
+    background: red
+}
+.footer{
+    height:23vh;
+
+}
